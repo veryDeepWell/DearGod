@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/__ME/projects/GODISKILLME/Content/Materials/icon-play-512.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Materials/ouroboros-512.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Materials/Phenix-128.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Blueprints/Widgets/BP_Score.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Levels/Level_1.umap",
+				"C:/__ME/projects/GODISKILLME/Content/Blueprints/BlockObject/BP_BlockObject.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Blueprints/BP_Shadow.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Materials/tarot-12-512.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Blueprints/Niaghara/DestroyedHuman.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Blueprints/Niaghara/PlaceHouse.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Blueprints/BlockObject/BP_House.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Blueprints/MoveObjects/BP_People.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Materials/S_Bones.uasset",
+				"C:/__ME/projects/GODISKILLME/Content/Materials/S_HomeFall.uasset"
+			]
+		}
+	]
+}
